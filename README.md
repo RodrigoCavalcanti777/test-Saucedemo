@@ -7,7 +7,7 @@
 
 ## Sobre o Projeto
 
-Este projeto tem como objetivo garantir a qualidade e a consistência de uma aplicação web por meio da automação de testes com a ferramenta [Cypress](https://www.cypress.io/). A aplicação em teste é uma plataforma de gerenciamento de tarefas que permite ao usuário criar, editar, excluir e visualizar tarefas. Com isso, busca-se otimizar o fluxo de trabalho dos usuários, garantindo que as funcionalidades essenciais da aplicação estejam sempre funcionando conforme o esperado.
+Este projeto tem como objetivo garantir a qualidade e a consistência de uma aplicação web por meio da automação de testes com a ferramenta [Cypress](https://www.cypress.io/). A aplicação em teste é a Sauce Demo(https://www.saucedemo.com/) é uma aplicação de treinamento amplamente utilizada para ensinar e praticar automação de testes. É uma simulação de uma loja de e-commerce, onde os usuários podem interagir com uma interface semelhante à de um site real.. Com isso, busca-se otimizar o fluxo de trabalho dos usuários, garantindo que as funcionalidades essenciais da aplicação estejam sempre funcionando conforme o esperado.
 
 A automação visa garantir que todas as interações do usuário com a interface, assim como a integração entre os componentes, ocorram sem falhas, além de cobrir possíveis erros e comportamentos inesperados.
 
@@ -45,10 +45,8 @@ Para rodar os testes do projeto em sua máquina, siga os passos abaixo:
 
 - npm install cypress --save-dev (para a Instalação do Cypress)
 
-- É recomendável que rode a aplicação do Bug Bank em Ambiente local, O manual para a instalação e para rodar a aplicação em ambiente local e está no seguinte link:
-- https://github.com/jhonatasmatos/bugbank-ui
-
-- yarn dev (para rodar aplicação em ambiente local)
+- A aplicaçaõ que será testada é
+- https://www.saucedemo.com/
 
 
 Tudo Feito! Mãos na massa 🙌
