@@ -1,4 +1,4 @@
-# test-bugBank
+# test-Saucedemo
 
 ![Cypress](https://img.shields.io/badge/Cypress-E2E%20Testing-green?style=flat&logo=cypress) 
 ![Node.js](https://img.shields.io/badge/Node.js-v14.x%20LTS-green?style=flat&logo=node.js)
