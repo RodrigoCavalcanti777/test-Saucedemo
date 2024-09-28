@@ -45,8 +45,5 @@ Para rodar os testes do projeto em sua máquina, siga os passos abaixo:
 
 - npm install cypress --save-dev (para a Instalação do Cypress)
 
-- A aplicaçaõ que será testada é
-- https://www.saucedemo.com/
-
 
 Tudo Feito! Mãos na massa 🙌
